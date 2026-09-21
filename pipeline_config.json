@@ -1,0 +1,9 @@
+{
+  "number_of_routes": 5,
+  "number_of_vehicles": 20,
+  "trips_per_route": 8,
+  "event_internal_seconds": 3,
+  "invalid_event_percentage": 2,
+  "duplicate_event_percentage": 2,
+  "late_event_percentage": 5
+}
